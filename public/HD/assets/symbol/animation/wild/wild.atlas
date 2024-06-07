@@ -1,0 +1,293 @@
+
+wild.png
+size: 1798,1159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 575
+  size: 582, 582
+  orig: 584, 584
+  offset: 1, 1
+  index: -1
+bg_top_left_leaf7
+  rotate: false
+  xy: 1454, 2
+  size: 30, 42
+  orig: 32, 44
+  offset: 1, 1
+  index: -1
+bg_top_left_leaf8
+  rotate: true
+  xy: 1141, 19
+  size: 25, 36
+  orig: 27, 38
+  offset: 1, 1
+  index: -1
+bg_top_left_tree1
+  rotate: false
+  xy: 586, 541
+  size: 582, 89
+  orig: 584, 91
+  offset: 1, 1
+  index: -1
+bg_top_left_vine1
+  rotate: false
+  xy: 1736, 1014
+  size: 52, 143
+  orig: 54, 145
+  offset: 1, 1
+  index: -1
+bg_top_left_vine2
+  rotate: false
+  xy: 1544, 16
+  size: 100, 90
+  orig: 102, 92
+  offset: 1, 1
+  index: -1
+bg_top_left_vine3
+  rotate: true
+  xy: 1571, 215
+  size: 152, 101
+  orig: 154, 103
+  offset: 1, 1
+  index: -1
+bg_top_left_vine4
+  rotate: false
+  xy: 1391, 214
+  size: 178, 153
+  orig: 180, 155
+  offset: 1, 1
+  index: -1
+bg_top_right_leaf1
+  rotate: false
+  xy: 1663, 639
+  size: 14, 30
+  orig: 16, 32
+  offset: 1, 1
+  index: -1
+bg_top_right_leaf10
+  rotate: false
+  xy: 1486, 15
+  size: 56, 29
+  orig: 58, 31
+  offset: 1, 1
+  index: -1
+bg_top_right_leaf11
+  rotate: false
+  xy: 1736, 890
+  size: 25, 14
+  orig: 27, 16
+  offset: 1, 1
+  index: -1
+bg_top_right_leaf2
+  rotate: true
+  xy: 1544, 2
+  size: 12, 31
+  orig: 14, 33
+  offset: 1, 1
+  index: -1
+bg_top_right_leaf3
+  rotate: true
+  xy: 1708, 375
+  size: 27, 47
+  orig: 29, 49
+  offset: 1, 1
+  index: -1
+bg_top_right_leaf4
+  rotate: true
+  xy: 555, 549
+  size: 24, 29
+  orig: 26, 31
+  offset: 1, 1
+  index: -1
+bg_top_right_leaf5
+  rotate: false
+  xy: 1638, 181
+  size: 34, 32
+  orig: 36, 34
+  offset: 1, 1
+  index: -1
+bg_top_right_leaf6
+  rotate: true
+  xy: 555, 2
+  size: 16, 32
+  orig: 18, 34
+  offset: 1, 1
+  index: -1
+bg_top_right_leaf7
+  rotate: false
+  xy: 1638, 161
+  size: 14, 18
+  orig: 16, 20
+  offset: 1, 1
+  index: -1
+bg_top_right_leaf8
+  rotate: true
+  xy: 1124, 487
+  size: 52, 27
+  orig: 54, 29
+  offset: 1, 1
+  index: -1
+bg_top_right_leaf9
+  rotate: true
+  xy: 1646, 2
+  size: 13, 33
+  orig: 15, 35
+  offset: 1, 1
+  index: -1
+bg_top_right_tree1
+  rotate: false
+  xy: 1141, 46
+  size: 219, 166
+  orig: 227, 170
+  offset: 7, 3
+  index: -1
+bg_top_right_vine4
+  rotate: false
+  xy: 555, 20
+  size: 328, 171
+  orig: 330, 173
+  offset: 1, 1
+  index: -1
+branche_1
+  rotate: false
+  xy: 1736, 906
+  size: 57, 106
+  orig: 65, 106
+  offset: 8, 0
+  index: -1
+branche_2
+  rotate: false
+  xy: 1454, 46
+  size: 88, 166
+  orig: 88, 169
+  offset: 0, 3
+  index: -1
+branche_3
+  rotate: false
+  xy: 1646, 17
+  size: 78, 94
+  orig: 78, 95
+  offset: 0, 1
+  index: -1
+branche_4
+  rotate: true
+  xy: 1726, 20
+  size: 91, 70
+  orig: 91, 85
+  offset: 0, 0
+  index: -1
+branche_5
+  rotate: false
+  xy: 1663, 671
+  size: 74, 211
+  orig: 74, 211
+  offset: 0, 0
+  index: -1
+branche_6
+  rotate: true
+  xy: 1544, 108
+  size: 104, 92
+  orig: 105, 92
+  offset: 0, 0
+  index: -1
+d
+  rotate: true
+  xy: 885, 18
+  size: 177, 254
+  orig: 181, 259
+  offset: 2, 2
+  index: -1
+frame
+  rotate: false
+  xy: 1145, 632
+  size: 516, 525
+  orig: 518, 527
+  offset: 1, 1
+  index: -1
+frame_add
+  rotate: false
+  xy: 2, 15
+  size: 551, 558
+  orig: 563, 572
+  offset: 6, 7
+  index: -1
+i
+  rotate: false
+  xy: 1708, 404
+  size: 75, 265
+  orig: 80, 269
+  offset: 2, 2
+  index: -1
+l
+  rotate: true
+  xy: 1124, 214
+  size: 155, 265
+  orig: 159, 270
+  offset: 2, 2
+  index: -1
+left_leaf
+  rotate: true
+  xy: 1663, 884
+  size: 273, 71
+  orig: 275, 73
+  offset: 1, 1
+  index: -1
+rays
+  rotate: false
+  xy: 586, 632
+  size: 557, 525
+  orig: 584, 548
+  offset: 16, 13
+  index: -1
+w
+  rotate: false
+  xy: 1504, 369
+  size: 202, 261
+  orig: 206, 267
+  offset: 2, 3
+  index: -1
+wild_top_glow_01
+  rotate: false
+  xy: 1674, 113
+  size: 82, 254
+  orig: 600, 346
+  offset: 35, 9
+  index: -1
+wild_top_glow_02
+  rotate: true
+  xy: 1170, 371
+  size: 259, 332
+  orig: 600, 346
+  offset: 0, 0
+  index: -1
+wild_top_glow_03
+  rotate: false
+  xy: 555, 193
+  size: 291, 346
+  orig: 600, 346
+  offset: 152, 0
+  index: -1
+wild_top_glow_04
+  rotate: false
+  xy: 848, 197
+  size: 274, 342
+  orig: 600, 346
+  offset: 326, 0
+  index: -1
+wild_top_glow_05
+  rotate: false
+  xy: 1362, 2
+  size: 90, 210
+  orig: 600, 346
+  offset: 492, 64
+  index: -1
+wild_top_glow_06
+  rotate: false
+  xy: 1790, 1122
+  size: 3, 35
+  orig: 600, 346
+  offset: 547, 146
+  index: -1

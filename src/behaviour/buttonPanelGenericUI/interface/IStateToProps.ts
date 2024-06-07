@@ -1,0 +1,65 @@
+export interface IStateToProps {
+    spinResponseReceived: boolean;
+    spinStart: boolean;
+    showAutoplayUI: any;
+    allButtonEnable: boolean;
+    exceptBtnList: Array<string>;
+    currentBetIndex: number;
+    betList: Array<number>;
+    autoplayCount: number;
+    autoplayNextSpin: boolean;
+    basegamestate: boolean;
+    inAutoplay: boolean;
+    feature: Array<any>;
+    layoutMode: string;
+    decreaseBetBtnVisibility: boolean;
+    increaseBetBtnVisibility: boolean;
+    maxBetBtnVisibility: boolean;
+    paytableBtnVisibility: boolean;
+    spinBtnVisibility: boolean;
+    showSettingPanelUI: boolean;
+    selectedCoin: number;
+    coinList: any;
+    allSpinComplete: boolean;
+    winAmount: number;
+    balance: number;
+    inFreeGame: boolean;
+    winPresentationStart: boolean;
+    featureJustFinished: boolean;
+    showWinCelebration: boolean;
+    featureJustReTriggered: boolean;
+    showSettingsControl: boolean;
+    showHelpButton: boolean;
+    enableAutoPlay: boolean;
+    autoPlaySimpleMode: boolean;
+    showResponsibleGamingIcon: boolean;
+    responsibleGamingUrl: string;
+    responsibleGamingIconPath: string;
+    showHelpText: boolean;
+    increaseBetResult: Object;
+    languageCode: any;
+    stopButtonActive: boolean;
+    disableQuickStop: boolean;
+    InTurboMode: boolean;
+    isSlamSpin: boolean;
+    isActiveAll: boolean;
+    enableParticularButton: boolean;
+    isRemoveKeyBoardEvent: boolean;
+    startSpinBySpaceBar: boolean;
+    firstSpinAfterLoad: boolean;
+    storeStake: any;
+    jurisdictionKey: string;
+    currencyDecimalSeparator: string;
+    currencyGroupingSeparator: string;
+    noInternetPopupVisible: boolean;
+    clickedButtonName: string;
+    reConstruction: boolean,
+    homeUrl: any;
+    betBoxCount: number,
+    reConstructionSpinComplete: boolean,
+    storeTotalWinAmountForBaseGame: number,
+    betIncrease:boolean,
+    betDecrease:boolean,
+    resultStack:any,
+    freezeGame: boolean,
+}

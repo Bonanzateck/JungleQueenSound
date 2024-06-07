@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MYP Bold';
+    src: url("./fonts/MYRIADPRO-BOLD.woff") format("woff");
+}
+
+@font-face {
+    font-family: "MYP Regular";
+    src: url("./fonts/MYRIADPRO-REGULAR.woff") format("woff");
+}

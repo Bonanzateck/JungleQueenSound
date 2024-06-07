@@ -1,0 +1,183 @@
+{
+  "urls": [
+    "sound/audioSprite.mp3"
+  ],
+  "sprite": {
+    "jq_multiplier_awarded": [
+      0,
+      3000
+    ],
+    "jq_multiplier_enhancement": [
+      4000,
+      3000
+    ],
+    "jq_mx_basegame": [
+      8000,
+      73411.76870748299
+    ],
+    "jq_mx_freegame_music_loop": [
+      83000,
+      60631.5873015873
+    ],
+    "jq_sq_coin_tick_up": [
+      145000,
+      2000
+    ],
+    "jq_sx_3_spins_message": [
+      148000,
+      4000
+    ],
+    "jq_sx_anticipation": [
+      153000,
+      4033.6281179138214
+    ],
+    "jq_sx_big_win_intro": [
+      159000,
+      2000
+    ],
+    "jq_sx_big_win_loop": [
+      162000,
+      4000
+    ],
+    "jq_sx_big_win_outro": [
+      167000,
+      2000
+    ],
+    "jq_sx_butterfly_collection": [
+      170000,
+      4500
+    ],
+    "jq_sx_butterfly_feature_activate": [
+      176000,
+      4000
+    ],
+    "jq_sx_butterfly_reveal": [
+      181000,
+      4500
+    ],
+    "jq_sx_butterfly_sit_meter": [
+      187000,
+      3000
+    ],
+    "jq_sx_buyin_button": [
+      191000,
+      1000
+    ],
+    "jq_sx_continue_button": [
+      193000,
+      1000
+    ],
+    "jq_sx_counter": [
+      195000,
+      1995.0113378684762
+    ],
+    "jq_sx_freegame_trigger": [
+      198000,
+      5000
+    ],
+    "jq_sx_generic_button": [
+      204000,
+      1000
+    ],
+    "jq_sx_golden_coin_awarded": [
+      206000,
+      3000
+    ],
+    "jq_sx_golden_coin_cash_reveal": [
+      210000,
+      3500
+    ],
+    "jq_sx_golden_queen_reveal": [
+      215000,
+      2500
+    ],
+    "jq_sx_level_up_message": [
+      219000,
+      3000
+    ],
+    "jq_sx_mega_win_intro": [
+      223000,
+      2000
+    ],
+    "jq_sx_mega_win_loop": [
+      226000,
+      4000
+    ],
+    "jq_sx_mega_win_outro": [
+      231000,
+      2000
+    ],
+    "jq_sx_reel_spin_loop": [
+      234000,
+      2000
+    ],
+    "jq_sx_reel_stop": [
+      237000,
+      1000
+    ],
+    "jq_sx_scatter_collection": [
+      239000,
+      3000
+    ],
+    "jq_sx_scatter_landing": [
+      243000,
+      2500
+    ],
+    "jq_sx_spin_button": [
+      247000,
+      1000
+    ],
+    "jq_sx_super_win_intro": [
+      249000,
+      2000
+    ],
+    "jq_sx_super_win_loop": [
+      252000,
+      4000
+    ],
+    "jq_sx_super_win_outro": [
+      257000,
+      2000
+    ],
+    "jq_sx_symbol_win_1": [
+      260000,
+      2500
+    ],
+    "jq_sx_symbol_win_2": [
+      264000,
+      2500
+    ],
+    "jq_sx_wild_landing": [
+      268000,
+      2500
+    ],
+    "jq_sx_win_sound_1": [
+      272000,
+      3000
+    ],
+    "jq_sx_symbol_win_3": [
+      276000,
+      2500
+    ],
+    "jq_sx_win_sound_2": [
+      280000,
+      3000
+    ],
+    "jq_sx_win_sound_3": [
+      284000,
+      3000
+    ],
+    "jq_sx_win_sound_4": [
+      288000,
+      3000
+    ],
+    "jq_mx_freegame_intro": [
+      292000,
+      5368.435374149669
+    ],
+    "jq_mx_freegame_outro": [
+      299000,
+      5052.630385487532
+    ]
+  }
+}

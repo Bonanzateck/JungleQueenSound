@@ -1,0 +1,188 @@
+
+symbol_meter_vine.png
+size: 1091,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leaf1
+  rotate: true
+  xy: 103, 4
+  size: 11, 16
+  orig: 15, 19
+  offset: 1, 2
+  index: -1
+leaf10
+  rotate: false
+  xy: 524, 38
+  size: 48, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+leaf11
+  rotate: false
+  xy: 503, 3
+  size: 33, 16
+  orig: 35, 18
+  offset: 0, 2
+  index: -1
+leaf12
+  rotate: false
+  xy: 665, 9
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+leaf13
+  rotate: false
+  xy: 513, 64
+  size: 49, 26
+  orig: 49, 27
+  offset: 0, 1
+  index: -1
+leaf14
+  rotate: false
+  xy: 642, 64
+  size: 26, 26
+  orig: 26, 27
+  offset: 0, 1
+  index: -1
+leaf15
+  rotate: false
+  xy: 608, 73
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+leaf16
+  rotate: true
+  xy: 574, 38
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+leaf17
+  rotate: true
+  xy: 670, 66
+  size: 24, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+leaf18
+  rotate: false
+  xy: 43, 3
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1
+leaf19
+  rotate: false
+  xy: 564, 71
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 596, 17
+  size: 39, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+leaf20
+  rotate: true
+  xy: 603, 50
+  size: 19, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+leaf21
+  rotate: true
+  xy: 84, 3
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: false
+  xy: 2, 2
+  size: 39, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+leaf4
+  rotate: true
+  xy: 665, 37
+  size: 25, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+leaf5
+  rotate: false
+  xy: 467, 21
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+leaf6
+  rotate: false
+  xy: 467, 3
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+leaf7
+  rotate: true
+  xy: 637, 21
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+leaf8
+  rotate: true
+  xy: 567, 4
+  size: 32, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+leaf9
+  rotate: true
+  xy: 538, 2
+  size: 34, 27
+  orig: 38, 28
+  offset: 4, 1
+  index: -1
+vine1
+  rotate: true
+  xy: 761, 5
+  size: 197, 163
+  orig: 197, 163
+  offset: 0, 0
+  index: -1
+vine2
+  rotate: false
+  xy: 2, 92
+  size: 757, 110
+  orig: 779, 139
+  offset: 1, 28
+  index: -1
+vine3
+  rotate: false
+  xy: 2, 50
+  size: 509, 40
+  orig: 520, 99
+  offset: 10, 54
+  index: -1
+vine4
+  rotate: false
+  xy: 2, 17
+  size: 463, 31
+  orig: 468, 34
+  offset: 1, 2
+  index: -1
+vine5
+  rotate: true
+  xy: 926, 19
+  size: 183, 163
+  orig: 183, 163
+  offset: 0, 0
+  index: -1

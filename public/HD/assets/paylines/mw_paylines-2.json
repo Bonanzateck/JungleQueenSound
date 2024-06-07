@@ -1,0 +1,47 @@
+{"frames": {
+
+"payline_04.webp":
+{
+	"frame": {"x":1,"y":1,"w":1061,"h":434},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1061,"h":434},
+	"sourceSize": {"w":1061,"h":434}
+},
+"payline_16.webp":
+{
+	"frame": {"x":1,"y":873,"w":1061,"h":225},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1061,"h":225},
+	"sourceSize": {"w":1061,"h":225}
+},
+"payline_18.webp":
+{
+	"frame": {"x":1064,"y":1,"w":1061,"h":434},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1061,"h":434},
+	"sourceSize": {"w":1061,"h":434}
+},
+"payline_19.webp":
+{
+	"frame": {"x":1,"y":437,"w":1061,"h":434},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1061,"h":434},
+	"sourceSize": {"w":1061,"h":434}
+}},
+"animations": {
+	"payline": ["payline_04.webp","payline_16.webp","payline_18.webp","payline_19.webp"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "mw_paylines-2.webp",
+	"format": "RGBA8888",
+	"size": {"w":1499,"h":1099},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:00fed9ab9e939e117871aaccf62ef17c:383d99016afdcc8e4f6315a64f780ea1:59df3e5907991af6efc4c84622acfa8f$"
+}
+}

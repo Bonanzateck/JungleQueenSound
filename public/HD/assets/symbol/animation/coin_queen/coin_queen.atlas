@@ -1,0 +1,321 @@
+
+coin_queen.png
+size: 2034,1937
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_queen_00
+  rotate: true
+  xy: 1156, 261
+  size: 270, 265
+  orig: 300, 300
+  offset: 18, 26
+  index: -1
+coin_queen_01
+  rotate: true
+  xy: 606, 6
+  size: 264, 273
+  orig: 300, 300
+  offset: 18, 17
+  index: -1
+coin_queen_02
+  rotate: true
+  xy: 606, 272
+  size: 259, 275
+  orig: 300, 300
+  offset: 17, 13
+  index: -1
+coin_queen_03
+  rotate: true
+  xy: 1425, 272
+  size: 268, 270
+  orig: 300, 300
+  offset: 18, 11
+  index: -1
+coin_queen_04
+  rotate: true
+  xy: 1437, 542
+  size: 270, 271
+  orig: 300, 300
+  offset: 18, 10
+  index: -1
+coin_queen_05
+  rotate: true
+  xy: 606, 804
+  size: 264, 275
+  orig: 300, 300
+  offset: 25, 12
+  index: -1
+coin_queen_06
+  rotate: true
+  xy: 883, 804
+  size: 264, 275
+  orig: 300, 300
+  offset: 25, 13
+  index: -1
+coin_queen_07
+  rotate: false
+  xy: 883, 269
+  size: 271, 265
+  orig: 300, 300
+  offset: 18, 25
+  index: -1
+coin_queen_08
+  rotate: false
+  xy: 881, 2
+  size: 268, 265
+  orig: 300, 300
+  offset: 18, 25
+  index: -1
+coin_queen_09
+  rotate: false
+  xy: 1160, 533
+  size: 263, 276
+  orig: 300, 300
+  offset: 17, 13
+  index: -1
+coin_queen_10
+  rotate: true
+  xy: 1697, 274
+  size: 263, 275
+  orig: 300, 300
+  offset: 18, 12
+  index: -1
+coin_queen_11
+  rotate: true
+  xy: 1488, 1363
+  size: 270, 275
+  orig: 300, 300
+  offset: 18, 10
+  index: -1
+coin_queen_12
+  rotate: true
+  xy: 1757, 807
+  size: 269, 274
+  orig: 300, 300
+  offset: 20, 11
+  index: -1
+coin_queen_13
+  rotate: true
+  xy: 606, 1070
+  size: 267, 276
+  orig: 300, 300
+  offset: 22, 13
+  index: -1
+coin_queen_14
+  rotate: true
+  xy: 1162, 811
+  size: 269, 273
+  orig: 300, 300
+  offset: 20, 17
+  index: -1
+coin_queen_15
+  rotate: false
+  xy: 606, 536
+  size: 270, 266
+  orig: 300, 300
+  offset: 18, 25
+  index: -1
+coin_queen_16
+  rotate: true
+  xy: 1710, 539
+  size: 266, 273
+  orig: 300, 300
+  offset: 18, 17
+  index: -1
+coin_queen_17
+  rotate: true
+  xy: 884, 1070
+  size: 267, 276
+  orig: 300, 300
+  offset: 16, 13
+  index: -1
+coin_queen_18
+  rotate: true
+  xy: 1480, 814
+  size: 269, 275
+  orig: 300, 300
+  offset: 17, 11
+  index: -1
+coin_queen_19
+  rotate: true
+  xy: 1210, 1361
+  size: 272, 276
+  orig: 300, 300
+  offset: 17, 10
+  index: -1
+coin_queen_20
+  rotate: false
+  xy: 1488, 1085
+  size: 269, 276
+  orig: 300, 300
+  offset: 20, 12
+  index: -1
+coin_queen_21
+  rotate: false
+  xy: 1759, 1078
+  size: 269, 276
+  orig: 300, 300
+  offset: 20, 13
+  index: -1
+coin_queen_22
+  rotate: false
+  xy: 1697, 6
+  size: 271, 266
+  orig: 300, 300
+  offset: 18, 25
+  index: -1
+coin_queen_23
+  rotate: false
+  xy: 878, 536
+  size: 270, 266
+  orig: 300, 300
+  offset: 17, 25
+  index: -1
+coin_queen_24
+  rotate: false
+  xy: 1210, 1082
+  size: 268, 277
+  orig: 300, 300
+  offset: 16, 13
+  index: -1
+coin_queen_25
+  rotate: false
+  xy: 1765, 1356
+  size: 267, 277
+  orig: 300, 300
+  offset: 17, 12
+  index: -1
+coin_queen_26
+  rotate: false
+  xy: 2, 1635
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+coin_queen_27
+  rotate: false
+  xy: 2, 1333
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+coin_queen_28
+  rotate: false
+  xy: 2, 1031
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+coin_queen_29
+  rotate: false
+  xy: 2, 729
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+coin_queen_30
+  rotate: false
+  xy: 2, 427
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+coin_queen_31
+  rotate: false
+  xy: 2, 125
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+coin_queen_32
+  rotate: false
+  xy: 304, 1635
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+coin_queen_33
+  rotate: false
+  xy: 606, 1635
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+coin_queen_34
+  rotate: false
+  xy: 908, 1635
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+coin_queen_35
+  rotate: false
+  xy: 1210, 1635
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+coin_queen_36
+  rotate: false
+  xy: 1512, 1635
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+coin_queen_37
+  rotate: false
+  xy: 304, 1333
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+coin_queen_38
+  rotate: false
+  xy: 304, 1031
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+coin_queen_39
+  rotate: false
+  xy: 304, 729
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+coin_queen_40
+  rotate: false
+  xy: 304, 427
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+coin_queen_41
+  rotate: false
+  xy: 304, 125
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+coin_queen_42
+  rotate: true
+  xy: 606, 1339
+  size: 294, 300
+  orig: 300, 300
+  offset: 2, 0
+  index: -1
+coin_queen_43
+  rotate: true
+  xy: 908, 1339
+  size: 294, 300
+  orig: 300, 300
+  offset: 2, 0
+  index: -1
+coin_queen_44
+  rotate: false
+  xy: 1423, 5
+  size: 257, 265
+  orig: 300, 300
+  offset: 25, 20
+  index: -1

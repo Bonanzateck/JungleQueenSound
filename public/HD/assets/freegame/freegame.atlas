@@ -1,0 +1,153 @@
+
+freegame.png
+size: 518,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+butterfly_1
+  rotate: true
+  xy: 310, 23
+  size: 117, 101
+  orig: 181, 131
+  offset: 26, 12
+  index: -1
+butterfly_4
+  rotate: true
+  xy: 310, 23
+  size: 117, 101
+  orig: 181, 131
+  offset: 26, 12
+  index: -1
+butterfly_2
+  rotate: true
+  xy: 106, 4
+  size: 136, 101
+  orig: 181, 131
+  offset: 26, 12
+  index: -1
+butterfly_3
+  rotate: true
+  xy: 2, 2
+  size: 138, 102
+  orig: 181, 131
+  offset: 26, 11
+  index: -1
+butterfly_5
+  rotate: true
+  xy: 209, 4
+  size: 136, 99
+  orig: 181, 131
+  offset: 26, 12
+  index: -1
+juqu_bg_butterfly_antennae_1
+  rotate: true
+  xy: 397, 12
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+juqu_bg_butterfly_antennae_1_glow
+  rotate: false
+  xy: 461, 2
+  size: 23, 23
+  orig: 33, 32
+  offset: 5, 5
+  index: -1
+juqu_bg_butterfly_antennae_2_glow
+  rotate: true
+  xy: 414, 3
+  size: 21, 23
+  orig: 30, 33
+  offset: 5, 5
+  index: -1
+juqu_bg_butterfly_antinnae_2
+  rotate: true
+  xy: 397, 5
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+juqu_bg_butterfly_body
+  rotate: true
+  xy: 371, 7
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+juqu_bg_butterfly_body_glow
+  rotate: true
+  xy: 413, 26
+  size: 32, 39
+  orig: 40, 48
+  offset: 4, 5
+  index: -1
+juqu_bg_butterfly_bottom_wing_1
+  rotate: false
+  xy: 439, 3
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+juqu_bg_butterfly_bottom_wing_1_glow
+  rotate: false
+  xy: 454, 54
+  size: 38, 39
+  orig: 46, 46
+  offset: 4, 4
+  index: -1
+juqu_bg_butterfly_bottom_wing_2
+  rotate: false
+  xy: 349, 2
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+juqu_bg_butterfly_bottom_wing_2_glow
+  rotate: false
+  xy: 413, 60
+  size: 39, 39
+  orig: 46, 45
+  offset: 3, 3
+  index: -1
+juqu_bg_butterfly_head
+  rotate: false
+  xy: 407, 16
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+juqu_bg_butterfly_head_glow
+  rotate: false
+  xy: 454, 27
+  size: 24, 25
+  orig: 32, 33
+  offset: 4, 4
+  index: -1
+juqu_bg_butterfly_top_wing_1
+  rotate: false
+  xy: 310, 2
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+juqu_bg_butterfly_top_wing_1_1glow
+  rotate: false
+  xy: 470, 95
+  size: 46, 45
+  orig: 53, 52
+  offset: 3, 4
+  index: -1
+juqu_bg_butterfly_top_wing_1_glow
+  rotate: false
+  xy: 413, 101
+  size: 55, 39
+  orig: 62, 45
+  offset: 3, 3
+  index: -1
+juqu_bg_butterfly_top_wing_2
+  rotate: false
+  xy: 486, 23
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,44 @@
+{"frames": {
+
+"continue_button_disabled.png":
+{
+	"frame": {"x":265,"y":1,"w":260,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":102},
+	"sourceSize": {"w":260,"h":102}
+},
+"continue_button_down.png":
+{
+	"frame": {"x":789,"y":1,"w":258,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":258,"h":101},
+	"sourceSize": {"w":258,"h":101}
+},
+"continue_button_over.png":
+{
+	"frame": {"x":1,"y":1,"w":262,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":102},
+	"sourceSize": {"w":262,"h":102}
+},
+"continue_button_up.png":
+{
+	"frame": {"x":527,"y":1,"w":260,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":102},
+	"sourceSize": {"w":260,"h":102}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "continue_button_ui.webp",
+	"format": "RGBA8888",
+	"size": {"w":1048,"h":104},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:28464232550ff4860b48b67faa51d140:4d51c9d58f67a959f60c2cd4fa9f7167:f66e357e6432b73f4e8708c9ce278eee$"
+}
+}

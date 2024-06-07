@@ -1,0 +1,97 @@
+
+lv2.png
+size: 749,321
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juqu_k_k
+  rotate: true
+  xy: 2, 3
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+juqu_leaf_1_k
+  rotate: true
+  xy: 656, 5
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+juqu_leaf_1_shadow_k
+  rotate: true
+  xy: 578, 112
+  size: 47, 53
+  orig: 47, 54
+  offset: 0, 1
+  index: -1
+juqu_leaf_2_k
+  rotate: true
+  xy: 707, 9
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+juqu_leaf_2_shadow_k
+  rotate: true
+  xy: 578, 4
+  size: 43, 47
+  orig: 44, 47
+  offset: 1, 0
+  index: -1
+juqu_leaf_3_k
+  rotate: false
+  xy: 627, 4
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+juqu_leaf_3_shadow_k
+  rotate: true
+  xy: 578, 77
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+juqu_stem_k
+  rotate: false
+  xy: 638, 49
+  size: 93, 131
+  orig: 93, 131
+  offset: 0, 0
+  index: -1
+juqu_stem_shadow_k
+  rotate: false
+  xy: 638, 182
+  size: 99, 137
+  orig: 99, 137
+  offset: 0, 0
+  index: -1
+k_001
+  rotate: false
+  xy: 475, 3
+  size: 101, 156
+  orig: 197, 199
+  offset: 22, 23
+  index: -1
+k_002
+  rotate: false
+  xy: 318, 161
+  size: 158, 158
+  orig: 197, 199
+  offset: 22, 23
+  index: -1
+k_003
+  rotate: false
+  xy: 478, 161
+  size: 158, 158
+  orig: 197, 199
+  offset: 22, 23
+  index: -1
+k_004
+  rotate: false
+  xy: 318, 2
+  size: 155, 157
+  orig: 197, 199
+  offset: 25, 24
+  index: -1

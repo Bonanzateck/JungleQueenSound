@@ -1,0 +1,391 @@
+
+hv2.png
+size: 2033,1985
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juqu_hv2_bg
+  rotate: false
+  xy: 2, 622
+  size: 700, 700
+  orig: 702, 702
+  offset: 1, 1
+  index: -1
+juqu_hv2_body_back
+  rotate: false
+  xy: 2, 1324
+  size: 770, 659
+  orig: 771, 663
+  offset: 1, 2
+  index: -1
+juqu_hv2_body_front
+  rotate: true
+  xy: 774, 1462
+  size: 521, 694
+  orig: 522, 713
+  offset: 1, 1
+  index: -1
+juqu_hv2_face
+  rotate: false
+  xy: 1463, 725
+  size: 418, 392
+  orig: 423, 392
+  offset: 1, 0
+  index: -1
+juqu_hv2_frame
+  rotate: false
+  xy: 1470, 1483
+  size: 500, 500
+  orig: 502, 502
+  offset: 1, 1
+  index: -1
+juqu_hv2_frame_add
+  rotate: false
+  xy: 2, 88
+  size: 532, 532
+  orig: 541, 541
+  offset: 4, 5
+  index: -1
+juqu_hv2_frame_shadow
+  rotate: false
+  xy: 704, 645
+  size: 475, 475
+  orig: 477, 477
+  offset: 1, 1
+  index: -1
+juqu_hv2_hand_1
+  rotate: true
+  xy: 1478, 1119
+  size: 362, 503
+  orig: 363, 508
+  offset: 1, 0
+  index: -1
+juqu_hv2_hand_2
+  rotate: false
+  xy: 536, 4
+  size: 306, 616
+  orig: 308, 622
+  offset: 0, 0
+  index: -1
+juqu_hv2_hand_2_shadow
+  rotate: false
+  xy: 844, 27
+  size: 306, 616
+  orig: 308, 622
+  offset: 0, 0
+  index: -1
+juqu_hv2_leaf_1
+  rotate: true
+  xy: 704, 1160
+  size: 162, 50
+  orig: 162, 50
+  offset: 0, 0
+  index: -1
+juqu_hv2_leaf_10
+  rotate: false
+  xy: 301, 36
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+juqu_hv2_leaf_11
+  rotate: false
+  xy: 1862, 618
+  size: 53, 105
+  orig: 53, 109
+  offset: 0, 0
+  index: -1
+juqu_hv2_leaf_12
+  rotate: false
+  xy: 1963, 1057
+  size: 68, 60
+  orig: 70, 62
+  offset: 1, 1
+  index: -1
+juqu_hv2_leaf_13
+  rotate: false
+  xy: 1152, 12
+  size: 214, 94
+  orig: 216, 96
+  offset: 1, 1
+  index: -1
+juqu_hv2_leaf_14
+  rotate: true
+  xy: 1972, 1747
+  size: 236, 50
+  orig: 238, 52
+  offset: 1, 1
+  index: -1
+juqu_hv2_leaf_15
+  rotate: false
+  xy: 1508, 494
+  size: 217, 229
+  orig: 217, 229
+  offset: 0, 0
+  index: -1
+juqu_hv2_leaf_16
+  rotate: true
+  xy: 1368, 2
+  size: 104, 91
+  orig: 106, 93
+  offset: 1, 1
+  index: -1
+juqu_hv2_leaf_17
+  rotate: true
+  xy: 1364, 331
+  size: 339, 142
+  orig: 339, 142
+  offset: 0, 0
+  index: -1
+juqu_hv2_leaf_2
+  rotate: true
+  xy: 1701, 337
+  size: 155, 98
+  orig: 155, 98
+  offset: 0, 0
+  index: -1
+juqu_hv2_leaf_3
+  rotate: false
+  xy: 145, 36
+  size: 154, 50
+  orig: 154, 50
+  offset: 0, 0
+  index: -1
+juqu_hv2_leaf_4
+  rotate: true
+  xy: 1814, 170
+  size: 97, 103
+  orig: 99, 105
+  offset: 1, 1
+  index: -1
+juqu_hv2_leaf_5
+  rotate: false
+  xy: 2, 2
+  size: 141, 84
+  orig: 141, 84
+  offset: 0, 0
+  index: -1
+juqu_hv2_leaf_6
+  rotate: false
+  xy: 1679, 168
+  size: 133, 132
+  orig: 133, 132
+  offset: 0, 0
+  index: -1
+juqu_hv2_leaf_7
+  rotate: true
+  xy: 1972, 1597
+  size: 148, 55
+  orig: 148, 55
+  offset: 0, 0
+  index: -1
+juqu_hv2_leaf_8
+  rotate: true
+  xy: 1814, 269
+  size: 93, 101
+  orig: 93, 101
+  offset: 0, 0
+  index: -1
+juqu_hv2_leaf_9
+  rotate: true
+  xy: 1862, 509
+  size: 107, 62
+  orig: 107, 62
+  offset: 0, 0
+  index: -1
+juqu_hv2_left leg 2
+  rotate: false
+  xy: 1152, 108
+  size: 210, 535
+  orig: 210, 535
+  offset: 0, 0
+  index: -1
+juqu_hv2_left_ear
+  rotate: false
+  xy: 1674, 59
+  size: 122, 107
+  orig: 122, 107
+  offset: 0, 0
+  index: -1
+juqu_hv2_left_eye_whiskers
+  rotate: false
+  xy: 1963, 885
+  size: 67, 76
+  orig: 69, 78
+  offset: 1, 1
+  index: -1
+juqu_hv2_left_eyeball
+  rotate: false
+  xy: 1963, 836
+  size: 47, 47
+  orig: 49, 49
+  offset: 1, 1
+  index: -1
+juqu_hv2_left_full_eyeblink
+  rotate: true
+  xy: 1926, 513
+  size: 107, 105
+  orig: 111, 107
+  offset: 2, 1
+  index: -1
+juqu_hv2_left_half_eyeblink
+  rotate: true
+  xy: 1926, 404
+  size: 107, 105
+  orig: 111, 107
+  offset: 2, 1
+  index: -1
+juqu_hv2_left_lens
+  rotate: false
+  xy: 704, 635
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+juqu_hv2_left_pupil
+  rotate: false
+  xy: 145, 2
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+juqu_hv2_left_whiskers
+  rotate: true
+  xy: 1727, 508
+  size: 215, 133
+  orig: 217, 135
+  offset: 1, 1
+  index: -1
+juqu_hv2_leg 3
+  rotate: true
+  xy: 774, 1122
+  size: 338, 702
+  orig: 338, 702
+  offset: 0, 0
+  index: -1
+juqu_hv2_lower_jaw
+  rotate: false
+  xy: 1508, 302
+  size: 191, 190
+  orig: 193, 192
+  offset: 2, 0
+  index: -1
+juqu_hv2_lower_mouth
+  rotate: true
+  xy: 1801, 364
+  size: 142, 114
+  orig: 143, 114
+  offset: 1, 0
+  index: -1
+juqu_hv2_lower_teeth
+  rotate: false
+  xy: 1917, 276
+  size: 72, 34
+  orig: 74, 36
+  offset: 1, 1
+  index: -1
+juqu_hv2_nose
+  rotate: true
+  xy: 1488, 58
+  size: 110, 184
+  orig: 111, 185
+  offset: 0, 0
+  index: -1
+juqu_hv2_right_ear
+  rotate: true
+  xy: 1917, 622
+  size: 126, 114
+  orig: 127, 114
+  offset: 0, 0
+  index: -1
+juqu_hv2_right_eye_whiskers
+  rotate: true
+  xy: 1963, 963
+  size: 92, 62
+  orig: 94, 64
+  offset: 1, 1
+  index: -1
+juqu_hv2_right_eyeball
+  rotate: false
+  xy: 1743, 11
+  size: 47, 46
+  orig: 49, 48
+  offset: 1, 1
+  index: -1
+juqu_hv2_right_full_eyeblink
+  rotate: false
+  xy: 403, 7
+  size: 98, 79
+  orig: 100, 81
+  offset: 1, 1
+  index: -1
+juqu_hv2_right_half_eyeblink
+  rotate: false
+  xy: 1917, 312
+  size: 112, 90
+  orig: 116, 93
+  offset: 2, 1
+  index: -1
+juqu_hv2_right_lens
+  rotate: false
+  xy: 1181, 662
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+juqu_hv2_right_pupil
+  rotate: false
+  xy: 179, 2
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+juqu_hv2_right_whiskers
+  rotate: false
+  xy: 1488, 170
+  size: 189, 130
+  orig: 191, 133
+  offset: 1, 2
+  index: -1
+juqu_hv2_tail
+  rotate: false
+  xy: 1181, 672
+  size: 280, 448
+  orig: 280, 448
+  offset: 0, 0
+  index: -1
+juqu_hv2_tongue
+  rotate: true
+  xy: 1674, 2
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+juqu_hv2_tongue_shadow
+  rotate: false
+  xy: 1461, 2
+  size: 53, 54
+  orig: 55, 56
+  offset: 1, 1
+  index: -1
+juqu_hv2_uper_teeth
+  rotate: true
+  xy: 1972, 1512
+  size: 83, 48
+  orig: 85, 50
+  offset: 1, 1
+  index: -1
+juqu_hv2_upper_mouth
+  rotate: true
+  xy: 1364, 108
+  size: 221, 122
+  orig: 223, 127
+  offset: 2, 0
+  index: -1
+light_sweep
+  rotate: false
+  xy: 1883, 750
+  size: 78, 367
+  orig: 78, 367
+  offset: 0, 0
+  index: -1

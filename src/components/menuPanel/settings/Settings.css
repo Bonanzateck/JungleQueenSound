@@ -1,0 +1,132 @@
+.settingMainDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.settingHeading {
+    position: absolute;
+    text-decoration: underline;
+    font-size: 2.5vw;
+    top: 1vw;
+    color: rgb(226, 190, 32);
+    font-family: "MYP Bold";
+}
+
+.settingContentDiv {
+    margin-top: 6vw;
+    display: flex;
+    flex-direction: column;
+    gap: 3vw;
+}
+
+.spaceSpin,
+.bgMusic,
+.gameSound {
+    display: flex;
+    justify-content: space-between;
+    gap: 20.5vw;
+}
+
+.volumeControl {
+    display: flex;
+    gap: 9vw;
+    /* width: 32vw; */
+    justify-content: space-between;
+}
+
+.volumeControl span {
+    color: white;
+}
+
+.settingContentDiv .labelText {
+    color: white;
+    margin-left: 0;
+}
+
+.volumeControl>div>.sliderHeaderDesktop {
+    margin-top: 0;
+}
+
+.volumeControl .inputSlider{
+    width: 10vw;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation: portrait) {
+    .volumeControl {
+        gap: 30vw;
+    }
+
+    .volumeControl>div>.inputSlider {
+        width: 25vw;
+    }
+
+    .settingHeading {
+        font-size: 6vw;
+    }
+
+    .spaceSpin,
+    .bgMusic,
+    .gameSound {
+        gap: 14.5vw;
+    }
+}
+
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 667px) and (orientation: landscape) {
+
+    .volumeControl {
+        gap: 15vw;
+    }
+
+    .volumeControl>div>.inputSlider {
+        width: 15vw;
+    }
+
+    .settingHeading {
+        font-size: 4vw;
+    }
+}
+
+@media only screen and (min-device-width: 668px) and (max-device-width: 1023px) and (orientation: landscape) {
+
+    .volumeControl {
+        gap: 10vw;
+    }
+
+    .volumeControl>div>.inputSlider {
+        width: 15vw;
+    }
+}
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
+
+    .volumeControl>div>.inputSlider {
+        width: 10vw;
+    }
+
+    .volumeControl {
+        gap: 9vw;
+    }
+    
+    .spaceSpin,
+    .bgMusic,
+    .gameSound {
+        gap: 19.5vw;
+    }
+}
+
+@media only screen and (min-device-width: 668px) and (max-device-width: 1024px) and (orientation: portrait) {
+    .volumeControl>div>.inputSlider {
+        width: 18vw;
+    }
+
+    .volumeControl {
+        gap: 10vw;
+    }
+
+    .settingHeading {
+        font-size: 6vw;
+    }
+
+}

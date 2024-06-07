@@ -1,0 +1,111 @@
+
+reveal.png
+size: 2012,1284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+butterfly_blur
+  rotate: false
+  xy: 604, 2
+  size: 706, 559
+  orig: 812, 812
+  offset: 55, 114
+  index: -1
+butterfly_body
+  rotate: true
+  xy: 2, 23
+  size: 29, 217
+  orig: 29, 217
+  offset: 0, 0
+  index: -1
+butterfly_body_glow
+  rotate: false
+  xy: 1935, 652
+  size: 75, 251
+  orig: 79, 263
+  offset: 4, 7
+  index: -1
+glow_2
+  rotate: true
+  xy: 2, 550
+  size: 732, 593
+  orig: 814, 708
+  offset: 42, 41
+  index: -1
+halo
+  rotate: false
+  xy: 597, 563
+  size: 719, 719
+  orig: 812, 812
+  offset: 47, 46
+  index: -1
+left_anttena
+  rotate: true
+  xy: 1561, 586
+  size: 85, 114
+  orig: 85, 114
+  offset: 0, 0
+  index: -1
+left_anttena_glow
+  rotate: false
+  xy: 1561, 673
+  size: 130, 156
+  orig: 130, 158
+  offset: 0, 0
+  index: -1
+left_wing
+  rotate: false
+  xy: 1693, 572
+  size: 240, 331
+  orig: 240, 331
+  offset: 0, 0
+  index: -1
+left_wing_glow
+  rotate: true
+  xy: 1318, 991
+  size: 291, 380
+  orig: 291, 380
+  offset: 0, 0
+  index: -1
+particles
+  rotate: false
+  xy: 2, 54
+  size: 600, 494
+  orig: 607, 503
+  offset: 5, 5
+  index: -1
+rays
+  rotate: false
+  xy: 1312, 2
+  size: 698, 559
+  orig: 709, 607
+  offset: 8, 18
+  index: -1
+right_anttena
+  rotate: true
+  xy: 1318, 905
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+right_anttena_glow
+  rotate: false
+  xy: 1561, 831
+  size: 130, 158
+  orig: 130, 158
+  offset: 0, 0
+  index: -1
+right_wing
+  rotate: false
+  xy: 1318, 572
+  size: 241, 331
+  orig: 241, 331
+  offset: 0, 0
+  index: -1
+right_wing_glow
+  rotate: false
+  xy: 1700, 905
+  size: 288, 377
+  orig: 290, 380
+  offset: 2, 1
+  index: -1
